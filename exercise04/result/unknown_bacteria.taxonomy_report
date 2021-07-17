@@ -1,0 +1,14 @@
+18.1910	181	181	no rank	0	unclassified
+81.8090	814	0	no rank	1	root
+81.8090	814	0	no rank	131567	  cellular organisms
+81.8090	814	0	superkingdom	2	    Bacteria
+81.8090	814	0	clade	1783272	      Terrabacteria group
+81.8090	814	0	phylum	544448	        Tenericutes
+81.8090	814	0	class	31969	          Mollicutes
+81.8090	814	0	order	2085	            Mycoplasmatales
+81.8090	814	0	family	2092	              Mycoplasmataceae
+81.8090	814	6	genus	2093	                Mycoplasma
+80.9045	805	0	species	2097	                  Mycoplasma genitalium
+80.9045	805	805	strain	243273	                    Mycoplasma genitalium G37
+0.3015	3	0	species	2104	                  Mycoplasma pneumoniae
+0.3015	3	3	strain	272634	                    Mycoplasma pneumoniae M129

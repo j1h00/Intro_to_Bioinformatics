@@ -1,0 +1,4 @@
+Selenocysteine
+five_prime_utr
+three_prime_utr
+transcript

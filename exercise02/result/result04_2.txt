@@ -1,0 +1,1 @@
+X	FlyBase	gene	2295466	2343870	.	+	.	gene_id "FBgn0003079"; gene_name "Raf"; gene_source "FlyBase"; gene_biotype "protein_coding";
